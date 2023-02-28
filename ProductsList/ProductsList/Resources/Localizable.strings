@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  ProductsList
+
+  Created by Piotr Wesołowski on 27/02/2023.
+  
+*/
+
+// Products List View
+"Products-List-Title" = "Products";
+"Fetching-Products-Text" = "Fetching products...";
+
+// Products Details View
+"Products-Details-Title" = "Product Details";
+
+// Internet Connection View
+"Not-Connected-Text" = "Not connected!";
+"Perform-Network-Request" = "Perform Network Request";
+
+"Is-Connected-Alert-Title" = "Success!";
+"Is-Connected-Alert-Message" = "The network request can be performed";
+"Is-Connected-Alert-Button-Text" = "OK";
+
+"Not-Connected-Alert-Title" = "No Internet Connection";
+"Not-Connected-Alert-Message" = "Please enable Wifi or Cellular data";
+"Not-Connected-Alert-Button-Text" = "Cancel";
+
+// Error View
+"Empty-Products-List-Message" = "Something went wrong...";
+"Empty-Products-List-Submessage" = "Something is probably blocking your signal";
+"Fetch-Products-Again" = "RETRY";
